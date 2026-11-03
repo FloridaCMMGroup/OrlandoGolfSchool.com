@@ -1,0 +1,10 @@
+# Files in the repo that must not be served to visitors.
+.git
+.assetsignore
+wrangler.jsonc
+node_modules
+.wrangler
+README.md
+CHANGELOG.md
+redirects.csv
+images/README.txt
